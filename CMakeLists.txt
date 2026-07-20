@@ -4,4 +4,4 @@ project(leetcode)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(codeforces
-        2241a.cpp)
+        2241c.cpp)
